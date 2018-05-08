@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="djl" />
+        <module name="dsz" />
+        <module name="lcl" />
+        <module name="util" />
+        <module name="webapp" />
+        <module name="wxy" />
+        <module name="wyc" />
+        <module name="zyl" />
+        <module name="zzy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="djl" target="1.7" />
+      <module name="dsz" target="1.7" />
+      <module name="lcl" target="1.7" />
+      <module name="parent" target="1.7" />
+      <module name="sshwuzu" target="1.5" />
+      <module name="util" target="1.7" />
+      <module name="webapp" target="1.7" />
+      <module name="wxy" target="1.7" />
+      <module name="wyc" target="1.7" />
+      <module name="zyl" target="1.7" />
+      <module name="zzy" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

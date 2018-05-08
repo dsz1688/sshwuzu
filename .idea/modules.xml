@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/parent/djl/djl.iml" filepath="$PROJECT_DIR$/../sshwuzu/parent/djl/djl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/parent/dsz/dsz.iml" filepath="$PROJECT_DIR$/../sshwuzu/parent/dsz/dsz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/parent/lcl/lcl.iml" filepath="$PROJECT_DIR$/../sshwuzu/parent/lcl/lcl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/parent/parent.iml" filepath="$PROJECT_DIR$/../sshwuzu/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sshwuzu.iml" filepath="$PROJECT_DIR$/sshwuzu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/util/util.iml" filepath="$PROJECT_DIR$/../sshwuzu/util/util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/webapp/webapp.iml" filepath="$PROJECT_DIR$/../sshwuzu/webapp/webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/parent/wxy/wxy.iml" filepath="$PROJECT_DIR$/../sshwuzu/parent/wxy/wxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/parent/wyc/wyc.iml" filepath="$PROJECT_DIR$/../sshwuzu/parent/wyc/wyc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/parent/zyl/zyl.iml" filepath="$PROJECT_DIR$/../sshwuzu/parent/zyl/zyl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshwuzu/parent/zzy/zzy.iml" filepath="$PROJECT_DIR$/../sshwuzu/parent/zzy/zzy.iml" />
+    </modules>
+  </component>
+</project>
